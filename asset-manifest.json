@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AnimeWatchlyst/static/css/main.60bf1659.css",
+    "main.js": "/AnimeWatchlyst/static/js/main.7488566c.js",
+    "static/media/relaxing.png": "/AnimeWatchlyst/static/media/relaxing.4562bb77b236eae87f8b.png",
+    "index.html": "/AnimeWatchlyst/index.html",
+    "main.60bf1659.css.map": "/AnimeWatchlyst/static/css/main.60bf1659.css.map",
+    "main.7488566c.js.map": "/AnimeWatchlyst/static/js/main.7488566c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bf1659.css",
+    "static/js/main.7488566c.js"
+  ]
+}
